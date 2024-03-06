@@ -1,0 +1,2 @@
+git remote add origin https://github.com/echols17/app_ntunhs_im.git
+git push -u origin main
