@@ -1,0 +1,13 @@
+<resources>
+    <string name="play_choose_a_button">Play choose a button</string>
+    <string name="paper">Paper</string>
+    <string name="rock">rock</string>
+    <string name="scissors">scissors</string>
+    <string name="wait_player">Wait Player</string>
+    <string name="player">player</string>
+    <string name="mora_game">Mora Game</string>
+    <string name="win">You Win!!</string>
+    <string name="lose">You Lose!!</string>
+    <string name="draw">Draw!!</string>
+    <string name="computer">Computer</string>
+</resources>
